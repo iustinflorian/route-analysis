@@ -1,0 +1,5 @@
+Distanta totala este: 1062 km.
+Distanta in mile este: 659.896 mile.
+Costul transportului este 140.821 lire.
+Costul in euro este :161.944 euro.
+Costul in dolari este :173.21 dolari.
